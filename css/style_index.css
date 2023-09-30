@@ -18,7 +18,7 @@ img:not([src]) {visibility:hidden;}
 table {border: none;}
 .js #loader {display:block; position:fixed;left:100px;top:0;}
 .se-pre-con {position:fixed;left:0px;top:0px;width:100%;height:100%;z-index:9999;background-color:white;cursor:none;}
-.icon{width:2.5em;margin:0;position:fixed;top:50%;left:50%;margin-right:-50%;transform:translate(-50%,-50%);}
+.icon{width:3.5em;margin:0;position:fixed;top:50%;left:50%;margin-right:-50%;transform:translate(-50%,-50%);}
 
 
 /* main frame*/
